@@ -4,7 +4,7 @@ but do know i'll update the readme to each upload for each game that's uploaded 
 I'll focus for now only on:
 
 Lego Alpha Team (English and Russian) (done btw)
-The full environment i made the installers in: https://archive.org/details/team-full-dev-env
+The full environment i made the installers in: https://archive.org/details/lego-alpha-team-full-dev-env
 
 lego racers 2 ru
 
