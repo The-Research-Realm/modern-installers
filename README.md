@@ -6,10 +6,16 @@ I'll focus for now only on:
 Lego Alpha Team (English and Russian) (done btw)
 The full environment i made the installers in: https://archive.org/details/lego-alpha-team-full-dev-env
 
+
 lego racers 2 ru
+The full environment i made the russian installer in: https://archive.org/details/lego-racers-2_202505
+
 
 lego creator ru
 
+
 lego creator knights kingdom (oh my windows fonts!!!) ru
 
+
 lego racers 1 ru
+
