@@ -16,6 +16,3 @@ lego creator ru
 
 lego creator knights kingdom (oh my windows fonts!!!) ru
 
-
-lego racers 1 ru
-
